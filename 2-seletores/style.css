@@ -1,0 +1,13 @@
+h1{
+  color: red;
+}
+
+.classe{
+  color: blue;
+}
+
+#id{
+  color: rgb(240, 143, 16);
+}
+
+/* classes são selecionadasd com o ponto e id pelo jogo da venha */

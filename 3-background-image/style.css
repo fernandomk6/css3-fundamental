@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+}
+#main-banner{
+  background-image: url("iamge.jpg");
+  height: 400px;
+  background-size: cover;
+  position: relative;
+}
+
+#main-banner h1{
+  position: absolute;
+  right: 0;
+  top: 200px;
+  margin: 20px;
+  color: white;
+}
+
+#main-banner p{
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  top: 300px;
+  color: lightgray;
+}
