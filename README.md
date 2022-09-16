@@ -1,2 +1,3 @@
 # CSS3 Fundamental
-Curso de CSS - Basico
+
+Curso de CSS - Básico.
